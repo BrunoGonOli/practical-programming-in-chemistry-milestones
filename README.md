@@ -10,9 +10,9 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Account Created                      | https://github.com/BrunoGonOli                                              | 
 | 1    | Github Profile Page                         | https://github.com/BrunoGonOli/BrunoGonOli                                  |
 | 1    | Commit and Push Change from Command Line    | https://github.com/BrunoGonOli/practical-programming-in-chemistry-milestones/commit/main |
-| 1    | Create a New Branch                         |         |
-| 1    | Create a conda environment                  |     |
-| 1    | Fork a Repo                                 |  |
+| 1    | Create a New Branch                         | https://github.com/BrunoGonOli/ppchem/tree/new-branch        |
+| 1    | Create a conda environment                  | https://github.com/BrunoGonOli/ppchem/blob/main/env.yml    |
+| 1    | Fork a Repo                                 | https://github.com/BrunoGonOli/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
 
